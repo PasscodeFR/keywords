@@ -1,5 +1,581 @@
 [
   {
+    "wotd": "amalgam",
+    "definition": "A mixture or blend.",
+    "dateReleasedUTC": "2019-01-12T03:24:26Z",
+    "length": 7,
+    "properWotD": "AMALGAM",
+    "preGit": false
+  },
+  {
+    "wotd": "auspicate",
+    "definition": "To initiate or enter upon especially under circumstances or with a procedure calculated to ensure prosperity and good luck.",
+    "dateReleasedUTC": "2019-01-01T22:14:28Z",
+    "length": 9,
+    "properWotD": "AUSPICATE",
+    "preGit": false
+  },
+  {
+    "wotd": "athenaeum",
+    "definition": "An institution for the promotion of literary or scientific learning.",
+    "dateReleasedUTC": "2018-12-18T12:49:08Z",
+    "length": 9,
+    "properWotD": "ATHENAEUM",
+    "preGit": false
+  },
+  {
+    "wotd": "ilka",
+    "definition": "Each; every.",
+    "dateReleasedUTC": "2018-12-14T01:19:39Z",
+    "length": 4,
+    "properWotD": "ILKA",
+    "preGit": false
+  },
+  {
+    "wotd": "cloister",
+    "definition": "To confine; seclude.",
+    "dateReleasedUTC": "2018-12-11T12:32:10Z",
+    "length": 8,
+    "properWotD": "CLOISTER",
+    "preGit": false
+  },
+  {
+    "wotd": "gyve",
+    "definition": "To restrain.",
+    "dateReleasedUTC": "2018-12-10T13:30:07Z",
+    "length": 4,
+    "properWotD": "GYVE",
+    "preGit": false
+  },
+  {
+    "wotd": "scienter",
+    "definition": "Knowingly or deliberately; intent or knowledge of wrongdoing.",
+    "dateReleasedUTC": "2018-11-16T22:40:19Z",
+    "length": 8,
+    "properWotD": "SCIENTER",
+    "preGit": false
+  },
+  {
+    "wotd": "bewhiskered",
+    "definition": "Ancient, as a witticism or expression- example: a bewhiskered catchword of a bygone era.",
+    "dateReleasedUTC": "2018-11-06T01:35:23Z",
+    "length": 11,
+    "properWotD": "BEWHISKERED",
+    "preGit": false
+  },
+  {
+    "wotd": "ploce",
+    "definition": "The repetition of a word or phrase to gain special emphasis or to indicate an extension of meaning.",
+    "dateReleasedUTC": "2018-10-28T19:07:15Z",
+    "length": 5,
+    "properWotD": "PLOCE",
+    "preGit": false
+  },
+  {
+    "wotd": "perseverance",
+    "definition": "Steady endurance and lasting in a course of action, a purpose, a state, especially in spite of difficulties, obstacles, or discouragement.\"",
+    "dateReleasedUTC": "2018-10-27T01:36:14Z",
+    "length": 12,
+    "properWotD": "PERSEVERANCE",
+    "preGit": false
+  },
+  {
+    "wotd": "vivavoce",
+    "definition": "(especially of an examination) oral rather than written; (Latin) \"with living voice\" or \"by word of mouth.\"",
+    "dateReleasedUTC": "2018-10-26T01:16:51Z",
+    "length": 8,
+    "properWotD": "VIVA VOCE",
+    "preGit": false
+  },
+  {
+    "wotd": "prosopopoeia",
+    "definition": "A rhetorical device in which a person communicates to others by speaking as another person or object.",
+    "dateReleasedUTC": "2018-10-24T22:49:14Z",
+    "length": 12,
+    "properWotD": "PROSOPOPOEIA",
+    "preGit": false
+  },
+  {
+    "wotd": "cloudinacan",
+    "definition": "A single product that allows a company to deploy a private virtual environment protected by a firewall.",
+    "dateReleasedUTC": "2018-09-29T12:35:30Z",
+    "length": 11,
+    "properWotD": "CLOUD IN A CAN",
+    "preGit": false
+  },
+  {
+    "wotd": "periphrasis",
+    "definition": "Use of a longer phrasing in place of a possible shorter form of expression.",
+    "dateReleasedUTC": "2018-09-08T20:52:52Z",
+    "length": 11,
+    "properWotD": "PERIPHRASIS",
+    "preGit": false
+  },
+  {
+    "wotd": "imperturbable",
+    "definition": "Marked by extreme calm, impassivity, and steadiness; serene.",
+    "dateReleasedUTC": "2018-08-27T16:24:40Z",
+    "length": 13,
+    "properWotD": "IMPERTURBABLE",
+    "preGit": false
+  },
+  {
+    "wotd": "exigent",
+    "definition": "Requiring or calling for much; requiring immediate aid or action.",
+    "dateReleasedUTC": "2018-08-24T13:53:30Z",
+    "length": 7,
+    "properWotD": "EXIGENT",
+    "preGit": false
+  },
+  {
+    "wotd": "primafacie",
+    "definition": "On its first encounter or at first sight; self-evident; obvious.",
+    "dateReleasedUTC": "2018-08-20T20:03:17Z",
+    "length": 10,
+    "properWotD": "PRIMA FACIE",
+    "preGit": false
+  },
+  {
+    "wotd": "doubleentendre",
+    "definition": "A word or phrase used in a manner that it can be interpreted in two ways.",
+    "dateReleasedUTC": "2018-08-16T01:46:05Z",
+    "length": 14,
+    "properWotD": "DOUBLE ENTENDRE",
+    "preGit": false
+  },
+  {
+    "wotd": "squiz",
+    "definition": "A quick, close look.",
+    "dateReleasedUTC": "2018-08-05T23:19:39Z",
+    "length": 5,
+    "properWotD": "SQUIZ",
+    "preGit": false
+  },
+  {
+    "wotd": "composmentis",
+    "definition": "Of sound mind, memory, and understanding.",
+    "dateReleasedUTC": "2018-08-04T00:21:38Z",
+    "length": 12,
+    "properWotD": "COMPOS MENTIS",
+    "preGit": false
+  },
+  {
+    "wotd": "festinate",
+    "definition": "Hasten.",
+    "dateReleasedUTC": "2018-07-30T20:20:02Z",
+    "length": 9,
+    "properWotD": "FESTINATE",
+    "preGit": false
+  },
+  {
+    "wotd": "gladhanding",
+    "definition": "Being very friendly to people you have not met before, as a way of trying to gain an advantage.",
+    "dateReleasedUTC": "2018-07-28T13:04:07Z",
+    "length": 11,
+    "properWotD": "GLADHANDING",
+    "preGit": false
+  },
+  {
+    "wotd": "bravura",
+    "definition": "A show of daring or brilliance.",
+    "dateReleasedUTC": "2018-07-27T22:20:21Z",
+    "length": 7,
+    "properWotD": "BRAVURA",
+    "preGit": false
+  },
+  {
+    "wotd": "corridorwarrior",
+    "definition": "A worker who spends more time between locations than at a single workspace.",
+    "dateReleasedUTC": "2018-07-26T19:59:05Z",
+    "length": 15,
+    "properWotD": "CORRIDOR WARRIOR",
+    "preGit": false
+  },
+  {
+    "wotd": "paragnosis",
+    "definition": "Knowledge that cannot be obtained by normal means; knowledge obtained by supernatural means.",
+    "dateReleasedUTC": "2018-07-20T14:32:41Z",
+    "length": 10,
+    "properWotD": "PARAGNOSIS",
+    "preGit": false
+  },
+  {
+    "wotd": "nimiety",
+    "definition": "Excess; overabundance.",
+    "dateReleasedUTC": "2018-07-11T16:06:52Z",
+    "length": 7,
+    "properWotD": "NIMIETY",
+    "preGit": false
+  },
+  {
+    "wotd": "ullage",
+    "definition": "The amount by which a container falls short of being full.",
+    "dateReleasedUTC": "2018-07-09T18:00:07Z",
+    "length": 6,
+    "properWotD": "ULLAGE",
+    "preGit": false
+  },
+  {
+    "wotd": "hopfieldnetwork",
+    "definition": "A type of recurrent artificial neural network based on simulating human memory through pattern recognition and storage; composed of only one layer of nodes or units each of which is connected to all the others but not itself",
+    "dateReleasedUTC": "2018-07-06T21:48:33Z",
+    "length": 15,
+    "properWotD": "HOPFIELD NETWORK",
+    "preGit": false
+  },
+  {
+    "wotd": "bedizen",
+    "definition": "Dress up or decorate.",
+    "dateReleasedUTC": "2018-07-04T23:38:36Z",
+    "length": 7,
+    "properWotD": "BEDIZEN",
+    "preGit": false
+  },
+  {
+    "wotd": "antigodlin",
+    "definition": "Lopsided or at an angle; out of alignment.",
+    "dateReleasedUTC": "2018-07-02T12:30:39Z",
+    "length": 10,
+    "properWotD": "ANTIGODLIN",
+    "preGit": false
+  },
+  {
+    "wotd": "biophiliahypothesis",
+    "definition": "Humans possess an innate tendency to seek connections with nature and other forms of life; the urge to affiliate with other forms of life (Edward O. Wilson).",
+    "dateReleasedUTC": "2018-06-20T11:05:58Z",
+    "length": 19,
+    "properWotD": "BIOPHILIA HYPOTHESIS",
+    "preGit": false
+  },
+  {
+    "wotd": "slue",
+    "definition": "To turn, swing, or slide in a particular direction.",
+    "dateReleasedUTC": "2018-06-13T12:03:28Z",
+    "length": 4,
+    "properWotD": "SLUE",
+    "preGit": false
+  },
+  {
+    "wotd": "whelm",
+    "definition": "To pass or go over something so as to bury or submerge it.",
+    "dateReleasedUTC": "2018-06-08T11:53:32Z",
+    "length": 5,
+    "properWotD": "WHELM",
+    "preGit": false
+  },
+  {
+    "wotd": "antipode",
+    "definition": "The direct opposite of something.",
+    "dateReleasedUTC": "2018-06-01T12:11:09Z",
+    "length": 8,
+    "properWotD": "ANTIPODE",
+    "preGit": false
+  },
+  {
+    "wotd": "modalrealism",
+    "definition": "David Lewis's modal realism. 1. Possible worlds exist -- they are just as real as our world. 2. Possible worlds are the same sort of things as our world -- they differ in content, not in kind. 3. Possible worlds cannot be reduced to something more basic -- they are irreducible entities in their own right.",
+    "dateReleasedUTC": "2018-05-28T04:08:17Z",
+    "length": 12,
+    "properWotD": "MODAL REALISM",
+    "preGit": false
+  },
+  {
+    "wotd": "exteriorize",
+    "definition": "To give or attribute an external form or objective character outside the self.",
+    "dateReleasedUTC": "2018-05-23T11:11:14Z",
+    "length": 11,
+    "properWotD": "EXTERIORIZE",
+    "preGit": false
+  },
+  {
+    "wotd": "velitation",
+    "definition": "A minor dispute or contest.",
+    "dateReleasedUTC": "2018-05-18T21:27:54Z",
+    "length": 10,
+    "properWotD": "VELITATION",
+    "preGit": false
+  },
+  {
+    "wotd": "panchreston",
+    "definition": "A proposed explanation intended to address a complex problem by trying to account for all possible contingencies but typically proving to be too broadly conceived and therefore oversimplified to be of any practical use.",
+    "dateReleasedUTC": "2018-05-15T10:56:46Z",
+    "length": 11,
+    "properWotD": "PANCHRESTON",
+    "preGit": false
+  },
+  {
+    "wotd": "ideomotorphenomenon",
+    "definition": "The process where a thought or mental image brings about a seemingly \"reflexive\" or automatic reaction potentially outside the awareness of the subject.",
+    "dateReleasedUTC": "2018-05-07T23:18:39Z",
+    "length": 19,
+    "properWotD": "IDEOMOTOR PHENOMENON",
+    "preGit": false
+  },
+  {
+    "wotd": "adhocracy",
+    "definition": "A flexible, adaptable organization that lacks a formal structure..",
+    "dateReleasedUTC": "2018-05-04T11:31:04Z",
+    "length": 9,
+    "properWotD": "ADHOCRACY",
+    "preGit": false
+  },
+  {
+    "wotd": "artificialneuron",
+    "definition": "A digital construct that seeks to simulate the behavior of a biological neuron in the brain.",
+    "dateReleasedUTC": "2018-04-29T00:16:33Z",
+    "length": 16,
+    "properWotD": "ARTIFICIAL NEURON",
+    "preGit": false
+  },
+  {
+    "wotd": "inevitable",
+    "definition": "Certain to happen; unavoidable..",
+    "dateReleasedUTC": "2018-04-20T11:16:56Z",
+    "length": 10,
+    "properWotD": "INEVITABLE",
+    "preGit": false
+  },
+  {
+    "wotd": "carking",
+    "definition": "Causing distress or worry.",
+    "dateReleasedUTC": "2018-04-16T11:20:22Z",
+    "length": 7,
+    "properWotD": "CARKING",
+    "preGit": false
+  },
+  {
+    "wotd": "aranui",
+    "definition": "Great path or great journey (Māori).",
+    "dateReleasedUTC": "2018-04-13T12:14:01Z",
+    "length": 6,
+    "properWotD": "ARANUI",
+    "preGit": false
+  },
+  {
+    "wotd": "ceilidh",
+    "definition": "A social event at which there is music and singing, dancing, and storytelling.",
+    "dateReleasedUTC": "2018-04-09T11:23:29Z",
+    "length": 7,
+    "properWotD": "CEILIDH",
+    "preGit": false
+  },
+  {
+    "wotd": "heterodox",
+    "definition": "Contrary to or different from an acknowledged standard.",
+    "dateReleasedUTC": "2018-04-07T00:01:05Z",
+    "length": 9,
+    "properWotD": "HETERODOX",
+    "preGit": false
+  },
+  {
+    "wotd": "anecdata",
+    "definition": "Information or evidence that is based on personal experience or observation rather than systematic research or analysis.",
+    "dateReleasedUTC": "2018-04-03T22:35:58Z",
+    "length": 8,
+    "properWotD": "ANECDATA",
+    "preGit": false
+  },
+  {
+    "wotd": "irenicism",
+    "definition": "The promotion and support of peace and conciliation.",
+    "dateReleasedUTC": "2018-04-01T17:42:36Z",
+    "length": 9,
+    "properWotD": "IRENICISM",
+    "preGit": false
+  },
+  {
+    "wotd": "ariose",
+    "definition": "Characterized by melody; songlike.",
+    "dateReleasedUTC": "2018-03-26T17:32:03Z",
+    "length": 6,
+    "properWotD": "ARIOSE",
+    "preGit": false
+  },
+  {
+    "wotd": "craic",
+    "definition": "Fun and entertainment, especially good conversation and company.",
+    "dateReleasedUTC": "2018-03-21T14:57:18Z",
+    "length": 5,
+    "properWotD": "CRAIC",
+    "preGit": false
+  },
+  {
+    "wotd": "adaboost",
+    "definition": "Short for Adaptive Boosting, is a machine learning meta-algorithm that uses an ensemble learning approach to weight various inputs.",
+    "dateReleasedUTC": "2018-03-15T23:01:16Z",
+    "length": 8,
+    "properWotD": "ADABOOST (tech)",
+    "preGit": false
+  },
+  {
+    "wotd": "conversant",
+    "definition": "Familiar with or knowledgeable about something.",
+    "dateReleasedUTC": "2018-03-10T01:52:06Z",
+    "length": 10,
+    "properWotD": "CONVERSANT",
+    "preGit": false
+  },
+  {
+    "wotd": "fain",
+    "definition": "Pleased or willing under the circumstances.",
+    "dateReleasedUTC": "2018-03-04T23:28:41Z",
+    "length": 4,
+    "properWotD": "FAIN",
+    "preGit": false
+  },
+  {
+    "wotd": "tautologous",
+    "definition": "Involving unnecessary repetition of an idea, especially using different words.",
+    "dateReleasedUTC": "2018-02-28T16:31:09Z",
+    "length": 11,
+    "properWotD": "TAUTOLOGOUS",
+    "preGit": false
+  },
+  {
+    "wotd": "hypnicjerk",
+    "definition": "An involuntary twitch which occurs when a person is beginning to fall asleep, often causing them to awaken suddenly for a moment.",
+    "dateReleasedUTC": "2018-02-25T02:06:11Z",
+    "length": 10,
+    "properWotD": "HYPNIC JERK",
+    "preGit": false
+  },
+  {
+    "wotd": "retrodict",
+    "definition": "To utilize present information or ideas to infer or explain a past event or state of affairs.",
+    "dateReleasedUTC": "2018-02-22T02:21:47Z",
+    "length": 9,
+    "properWotD": "RETRODICT",
+    "preGit": false
+  },
+  {
+    "wotd": "refection",
+    "definition": "Refreshment of mind, spirit, or body; nourishment.",
+    "dateReleasedUTC": "2018-02-20T12:25:19Z",
+    "length": 9,
+    "properWotD": "REFECTION",
+    "preGit": false
+  },
+  {
+    "wotd": "rubberduckdebugging",
+    "definition": "A method of program debugging/teaching where the code/information is repeated out loud line by line giving the programmer/teacher a different perspective helping them to fine incongruencies or problems within the code/information.",
+    "dateReleasedUTC": "2018-02-17T20:09:39Z",
+    "length": 19,
+    "properWotD": "RUBBER DUCK DEBUGGING",
+    "preGit": false
+  },
+  {
+    "wotd": "adonize",
+    "definition": "To make more attractive; to spruce up.",
+    "dateReleasedUTC": "2018-02-12T13:21:37Z",
+    "length": 7,
+    "properWotD": "ADONIZE",
+    "preGit": false
+  },
+  {
+    "wotd": "ingenerate",
+    "definition": "To generate or produce within; self-existent.",
+    "dateReleasedUTC": "2018-02-10T00:47:01Z",
+    "length": 10,
+    "properWotD": "INGENERATE",
+    "preGit": false
+  },
+  {
+    "wotd": "oblivescence",
+    "definition": "An act or the process of forgetting.",
+    "dateReleasedUTC": "2018-02-06T23:58:10Z",
+    "length": 12,
+    "properWotD": "OBLIVESCENCE",
+    "preGit": false
+  },
+  {
+    "wotd": "denormalization",
+    "definition": "A strategy used to increase the performance of a database infrastructure by adding redundant data to a normalized database to reduce problems with database queries.",
+    "dateReleasedUTC": "2018-02-04T01:10:49Z",
+    "length": 15,
+    "properWotD": "DENORMALIZATION",
+    "preGit": false
+  },
+  {
+    "wotd": "boustrophedon",
+    "definition": "An ancient method of writing in which the lines run alternately from right to left and from left to right.",
+    "dateReleasedUTC": "2018-02-02T23:51:56Z",
+    "length": 13,
+    "properWotD": "BOUSTROPHEDON",
+    "preGit": false
+  },
+  {
+    "wotd": "literatim",
+    "definition": "Letter-for-letter; literally.",
+    "dateReleasedUTC": "2018-01-30T00:09:18Z",
+    "length": 9,
+    "properWotD": "LITERATIM",
+    "preGit": false
+  },
+  {
+    "wotd": "euhemerism",
+    "definition": "An approach to the interpretation of stories in which mythological tales are presumed to have originated from real historical events or personages; the concept that gods are based on historical heroes whose stories became exaggerated in retelling.",
+    "dateReleasedUTC": "2018-01-25T18:26:09Z",
+    "length": 10,
+    "properWotD": "EUHEMERISM",
+    "preGit": false
+  },
+  {
+    "wotd": "hypercathexis",
+    "definition": "Excessive concentration of mental energy on something.",
+    "dateReleasedUTC": "2018-01-23T01:24:23Z",
+    "length": 13,
+    "properWotD": "HYPERCATHEXIS",
+    "preGit": false
+  },
+  {
+    "wotd": "ingratiation",
+    "definition": "A psychological technique in which an individual attempts to influence, manipulate or control another by becoming more attractive or likeable to their target.",
+    "dateReleasedUTC": "2018-01-19T12:24:15Z",
+    "length": 12,
+    "properWotD": "INGRATIATION",
+    "preGit": false
+  },
+  {
+    "wotd": "totimal",
+    "definition": "A drawing or picture of a fictitious animal used to stimulate tip-of-the-tongue (TOT) events. TOTimals generally combine features of many different animals, creating a familiar feel, while still making it impossible to identify the animal.",
+    "dateReleasedUTC": "2018-01-17T19:10:01Z",
+    "length": 7,
+    "properWotD": "TOTimal",
+    "preGit": false
+  },
+  {
+    "wotd": "breviloquence",
+    "definition": "Speaking briefly and concisely.",
+    "dateReleasedUTC": "2018-01-15T21:42:27Z",
+    "length": 13,
+    "properWotD": "BREVILOQUENCE",
+    "preGit": false
+  },
+  {
+    "wotd": "apodictic",
+    "definition": "Expressing or of the nature of necessary truth or absolute certainty.",
+    "dateReleasedUTC": "2018-01-11T15:47:41Z",
+    "length": 9,
+    "properWotD": "APODICTIC",
+    "preGit": false
+  },
+  {
+    "wotd": "pervious",
+    "definition": "Open or accessible to reason, feeling, argument.",
+    "dateReleasedUTC": "2018-01-09T22:05:39Z",
+    "length": 8,
+    "properWotD": "PERVIOUS",
+    "preGit": false
+  },
+  {
+    "wotd": "tui",
+    "definition": "An intellectual who sells his or her abilities and opinions as a commodity or who uses the abilities to support the dominant ideology of a society.",
+    "dateReleasedUTC": "2018-01-06T22:57:58Z",
+    "length": 3,
+    "properWotD": "TUI (intellectual)",
+    "preGit": false
+  },
+  {
     "wotd": "elenctic",
     "definition": "Refuting an argument by proving the falsehood of its conclusion.",
     "dateReleasedUTC": "2018-01-04T01:59:35Z",
