@@ -404,7 +404,7 @@
   {
     "word": "chapeau",
     "length": 7,
-    "atbash": ["henry"],
+    "atbash": ["henry", "pa"],
     "origin": ""
   },
   {
@@ -578,7 +578,7 @@
   {
     "word": "corvus",
     "length": 6,
-    "atbash": null,
+    "atbash": ["maha"],
     "origin": ""
   },
   {
@@ -1563,6 +1563,12 @@
     "word": "magnus",
     "length": 6,
     "atbash": ["antimagnus"],
+    "origin": ""
+  },
+  {
+    "word": "maha",
+    "length": 4,
+    "atbash": ["maha"],
     "origin": ""
   },
   {
