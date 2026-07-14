@@ -252,6 +252,12 @@
     "origin": ""
   },
   {
+    "word": "battle",
+    "length": 6,
+    "atbash": null,
+    "origin": ""
+  },
+  {
     "word": "bedlam",
     "length": 6,
     "atbash": null,
@@ -342,9 +348,21 @@
     "origin": ""
   },
   {
+    "word": "brandt",
+    "length": 6,
+    "atbash": ["christopher"],
+    "origin": ""
+  },
+  {
     "word": "breathe",
     "length": 7,
     "atbash": ["die"],
+    "origin": ""
+  },
+  {
+    "word": "bridge",
+    "length": 6,
+    "atbash": null,
     "origin": ""
   },
   {
@@ -1050,6 +1068,12 @@
     "origin": ""
   },
   {
+    "word": "forge",
+    "length": 5,
+    "atbash": null,
+    "origin": ""
+  },
+  {
     "word": "forget",
     "length": 6,
     "atbash": ["fire", "remember"],
@@ -1064,6 +1088,12 @@
   {
     "word": "frame",
     "length": 5,
+    "atbash": null,
+    "origin": ""
+  },
+  {
+    "word": "frequency",
+    "length": 9,
     "atbash": null,
     "origin": ""
   },
@@ -1136,7 +1166,7 @@
   {
     "word": "greanias",
     "length": 8,
-    "atbash": null,
+    "atbash": ["thomas"],
     "origin": ""
   },
   {
@@ -1226,6 +1256,12 @@
   {
     "word": "holland",
     "length": 7,
+    "atbash": null,
+    "origin": ""
+  },
+  {
+    "word": "hospital",
+    "length": 8,
     "atbash": null,
     "origin": ""
   },
@@ -1710,6 +1746,12 @@
     "origin": ""
   },
   {
+    "word": "midorikawa",
+    "length": 10,
+    "atbash": ["makoto"],
+    "origin": ""
+  },
+  {
     "word": "mind",
     "length": 4,
     "atbash": ["body", "soul"],
@@ -1742,6 +1784,12 @@
   {
     "word": "mkultra",
     "length": 7,
+    "atbash": null,
+    "origin": ""
+  },
+  {
+    "word": "mnemosyne",
+    "length": 9,
     "atbash": null,
     "origin": ""
   },
@@ -1794,6 +1842,12 @@
     "origin": ""
   },
   {
+    "word": "myriad",
+    "length": 6,
+    "atbash": null,
+    "origin": ""
+  },
+  {
     "word": "mystery",
     "length": 7,
     "atbash": null,
@@ -1826,6 +1880,12 @@
   {
     "word": "nest",
     "length": 4,
+    "atbash": null,
+    "origin": ""
+  },
+  {
+    "word": "network",
+    "length": 7,
     "atbash": null,
     "origin": ""
   },
@@ -2126,6 +2186,12 @@
   {
     "word": "presquevu",
     "length": 9,
+    "atbash": null,
+    "origin": ""
+  },
+  {
+    "word": "prime",
+    "length": 5,
     "atbash": null,
     "origin": ""
   },
@@ -2748,6 +2814,12 @@
     "origin": ""
   },
   {
+    "word": "takumi",
+    "length": 6,
+    "atbash": ["furukawa"],
+    "origin": ""
+  },
+  {
     "word": "technology",
     "length": 10,
     "atbash": null,
@@ -2859,6 +2931,12 @@
     "word": "ultra",
     "length": 5,
     "atbash": ["micro"],
+    "origin": ""
+  },
+  {
+    "word": "umbra",
+    "length": 5,
+    "atbash": null,
     "origin": ""
   },
   {
